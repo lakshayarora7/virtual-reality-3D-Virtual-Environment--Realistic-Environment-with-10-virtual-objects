@@ -1,7 +1,7 @@
 # virtual-reality-3D-Virtual-Environment--Realistic-Environment-with-10-virtual-objects
 virtual-reality-3D-Virtual-Environment--Realistic-Environment-with-10-virtual-objects
 
-![Alt text](screenshot1.png?raw=true "3D Virtual Environment")
+![Alt text](screenshot1.PNG?raw=true "3D Virtual Environment")
 
 Due to size restrictions on github, placed code at https://drive.google.com/drive/folders/1l6ybV9ZtNRAc71UPvZHHK80yOVkMHCrm?usp=sharing.
 
