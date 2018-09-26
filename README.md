@@ -1,14 +1,16 @@
 # virtual-reality-3D-Virtual-Environment--Realistic-Environment-with-10-virtual-objects
 virtual-reality-3D-Virtual-Environment--Realistic-Environment-with-10-virtual-objects
 
+![Alt text](screenshot1.png?raw=true "3D Virtual Environment")
+
 Due to size restrictions on github, placed code at https://drive.google.com/drive/folders/1l6ybV9ZtNRAc71UPvZHHK80yOVkMHCrm?usp=sharing.
 
 Developed a realistic 3D Virtual Environment as part of my Virtual Reality class. It contains 10 virtual objects, properly scaled as per the Unity Cube primitive. Imported models were taken from the Unity Asset Store. Used the Vive prefab’s 'Real World Simulator' to ensure that virtual objects and environment have realistic scales and can be viewed with the HTC Vive. The Vive prefab is part of 5UDE, a package developed by Professor Ryan McMahan at FIVE labs at UTD. Copyright information inside the zip file.
 
+1. Steam VR (downloaded from Unity Asset Store)
+2. 5UDE: a package designed by Professor Ryan McMahan (University of Texas at Dallas), contains a real worl simulator along with HTC Vive inputs.
 
-Unity scene that contains our realistic virtual environment is “LivingArea.unity”. This is located under Assets folder.   
-Scene Description
-We have designed a living area virtual environment. It has the following characteristics:
+The Living Area Virtual Environment has the following characteristics:
 1.	Couch
 2.	Guitar
 3.	Study table and chair
